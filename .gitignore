@@ -1,0 +1,8 @@
+# Binaries and build output
+/build/
+gpt
+tensor
+*.o
+
+# Trained weights are reproducible: `gpt train` regenerates them
+*.bin
