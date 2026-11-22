@@ -10,8 +10,9 @@ This project grew out of an earlier C-GPT repository started by Zaid
 Marwat with a collaborator; that repo is unchanged and stays where it is.
 Everything in THIS repository — the tensor ops, the transformer, the
 training loop, checkpointing, sampling, the tests, and this README — was
-written fresh by Zaid with the help of his AI assistant. The training data
-is a slice of the public-domain Tiny Shakespeare corpus.
+built by Zaid's AI assistant at his direction and approved by him for
+publication. The training data is a slice of the public-domain
+Tiny Shakespeare corpus.
 
 ## Architecture
 
